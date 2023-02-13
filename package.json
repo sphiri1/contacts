@@ -1,6 +1,6 @@
 {
   "name": "my-app",
-  "home": "https://sphiri1.github.io/contacts",
+  "home": "http://sphiri1.github.io/contacts",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
