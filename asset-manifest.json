@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.3e0c4550.css",
-    "main.js": "/static/js/main.913c432e.js",
-    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
-    "static/media/nickelodeon_sans_by_lyricofficial_ddznty51.woff": "/static/media/nickelodeon_sans_by_lyricofficial_ddznty51.1c0642a75ac1ab4bd0e3.woff",
-    "index.html": "/index.html",
-    "main.3e0c4550.css.map": "/static/css/main.3e0c4550.css.map",
-    "main.913c432e.js.map": "/static/js/main.913c432e.js.map",
-    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/contacts/static/css/main.505b6bba.css",
+    "main.js": "/contacts/static/js/main.c908c90c.js",
+    "static/js/787.28cb0dcd.chunk.js": "/contacts/static/js/787.28cb0dcd.chunk.js",
+    "static/media/nickelodeon_sans_by_lyricofficial_ddznty51.woff": "/contacts/static/media/nickelodeon_sans_by_lyricofficial_ddznty51.1c0642a75ac1ab4bd0e3.woff",
+    "index.html": "/contacts/index.html",
+    "main.505b6bba.css.map": "/contacts/static/css/main.505b6bba.css.map",
+    "main.c908c90c.js.map": "/contacts/static/js/main.c908c90c.js.map",
+    "787.28cb0dcd.chunk.js.map": "/contacts/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3e0c4550.css",
-    "static/js/main.913c432e.js"
+    "static/css/main.505b6bba.css",
+    "static/js/main.c908c90c.js"
   ]
 }
