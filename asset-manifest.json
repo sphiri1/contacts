@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3e0c4550.css",
+    "main.js": "/static/js/main.913c432e.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/nickelodeon_sans_by_lyricofficial_ddznty51.woff": "/static/media/nickelodeon_sans_by_lyricofficial_ddznty51.1c0642a75ac1ab4bd0e3.woff",
+    "index.html": "/index.html",
+    "main.3e0c4550.css.map": "/static/css/main.3e0c4550.css.map",
+    "main.913c432e.js.map": "/static/js/main.913c432e.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e0c4550.css",
+    "static/js/main.913c432e.js"
+  ]
+}
