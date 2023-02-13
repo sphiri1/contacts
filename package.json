@@ -1,7 +1,7 @@
 {
   "name": "my-app",
   "version": "0.1.0",
-  "home": "https://sphiri1.github.io/contacts",
+  "homepage": "https://sphiri1.github.io/contacts",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
