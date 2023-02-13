@@ -1,0 +1,13 @@
+
+@font-face {
+    font-family: 'Nickelodeon Sans Bold';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Nickelodeon Sans Bold'), url('nickelodeon_sans_by_lyricofficial_ddznty51.woff') format('woff');
+    }
+
+h1{
+    font-family: 'Nickelodeon Sans Bold';
+    font-weight: 200;
+    color:#4a6779;
+}
